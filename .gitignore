@@ -1,0 +1,5 @@
+# Valgrind
+vgcore.*
+
+# Compiled C
+C/
