@@ -1,5 +1,5 @@
 // Last Submission
-// 1ms | Beats 88.10%
+// 1ms | Beats 88.10% 
 
 function twoSum(nums: number[], target: number): number[] {
   const map: { [key: number]: number } = {}
