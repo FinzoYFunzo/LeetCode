@@ -3,3 +3,6 @@ vgcore.*
 
 # Compiled C
 C/
+
+# Rsut thing
+target/
